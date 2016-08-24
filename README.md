@@ -1,1 +1,1 @@
-Visit this site at https://sckott.github.io/gbidsstatus/
+Visit this site at <https://sckott.github.io/gbidsstatus>
